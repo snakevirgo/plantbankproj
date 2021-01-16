@@ -8,7 +8,7 @@ Utilizing the [Trefle](https://trefle.io) api; create a minimalisic, simple, and
 
 ### Deployment:
 
-- https://plantbank.herokuapp.com/
+- https://plantbankproj.herokuapp.com/
 
 
 ### To Run Project Locally:
