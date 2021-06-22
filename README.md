@@ -9,6 +9,7 @@ Utilizing the [Trefle](https://trefle.io) api; create a minimalisic, simple, and
 ### Deployment:
 
 - https://plantbankproj.herokuapp.com/
+- The website is currently not working due to the Trefle API has been discontinued by the original author.
 
 
 ### To Run Project Locally:
